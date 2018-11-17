@@ -1,3 +1,14 @@
+This Repo will deliver those functionalities out of the box:-
+1- jwt register 
+2- jwt login
+3- middleware protection
+4- products module
+
+clone it and run 
+>> composer install 
+You'll be up and running.
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
